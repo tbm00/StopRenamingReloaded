@@ -1,0 +1,14 @@
+name: StopRenaming
+version: ${project.version}
+main: me.xemor.stoprenaming.StopRenaming
+api-version: 1.13
+authors: [Xemor_]
+description: This plugin allows you to stop certain items from being renamed
+commands:
+  stoprenaming:
+    description: the root command of this entire plugin
+    usage: /stoprenaming <reload (only subcommand)>
+permissions:
+  stoprenaming.reload:
+    description: This permission gives you the ability to reload the config
+    default: op
