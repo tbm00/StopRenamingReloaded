@@ -1,9 +1,7 @@
 banAllNames: false
 
 bannedMaterials:
-  - DIAMOND_SWORD
-  - DIAMOND_PICKAXE
-  - DIAMOND_SHOVEL
+  - TRIPWIRE_HOOK
 
 bannedNames:
-  - "&8&l[&5&lEnder &7&lSword&8&l]"
+  - "&4BadWord"
